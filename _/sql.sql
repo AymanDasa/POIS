@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `signature_location` TINYINT NOT NULL DEFAULT '0' AFTER `signature`; 
